@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Anna 👋  
+Senior AI Product Manager focused on *evaluating, monitoring, and hardening* ML systems.
 
-<!--
-**joannany/joannany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools for:
+- **LLM behavioral reliability** (safety, drift, consistency)
+- **Medical AI model monitoring** (real-world drift, calibration, post-market eval)
+- **Statistical frameworks** for calibration, thresholding, and robust evaluation
 
-Here are some ideas to get you started:
+My work sits at the intersection of research and product, focused on making AI systems measurable, predictable, and safe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Featured Projects
+- **LLM Behavior Evaluation Lab** — A modular framework for analyzing LLM safety, drift, and capability behavior.
+- **Model Eval & Drift Lab** — Practical tools for detecting drift, calibrating models, and stress-testing ML systems.
+
+📫 Connect: [LinkedIn](https://linkedin.com/in/anna-jo-72088a21)
