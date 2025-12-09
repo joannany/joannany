@@ -8,8 +8,15 @@ I build tools for:
 
 My work sits at the intersection of research and product, focused on making AI systems measurable, predictable, and safe.
 
-### 🔬 Featured Projects
-- **LLM Behavior Evaluation Lab** — A modular framework for analyzing LLM safety, drift, and capability behavior.
-- **Model Eval & Drift Lab** — Practical tools for detecting drift, calibrating models, and stress-testing ML systems.
+---
 
-📫 Connect: [LinkedIn](https://linkedin.com/in/anna-jo-72088a21)
+### 🐾 Featured Projects
+- **LLM Behavior Evaluation Lab** — A modular framework for analyzing LLM safety, drift, and capability behavior.
+- **Model Eval & Drift Lab** — Tools for detecting drift, calibrating models, and stress-testing ML systems.
+
+---
+
+### 📫 Connect
+<a href="https://linkedin.com/in/anna-jo-72088a21" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
