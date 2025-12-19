@@ -1,17 +1,18 @@
-### Hi, I'm Anna 👋  
-Senior AI Product Manager focused on *evaluating, monitoring, and hardening* ML systems.
+### Hi, I’m Anna
+
+Senior AI Product Manager focused on **evaluating, monitoring, and hardening** machine learning systems in production.
 
 I build tools for:
-- **Medical AI model monitoring** (real-world drift, calibration, post-market eval)
-- **Statistical frameworks** for calibration, thresholding, and robust evaluation
-- (in progress) **LLM behavioral reliability** (safety, drift, consistency)
+- **Medical AI model monitoring** (real-world drift detection, calibration analysis, post-market evaluation)
+- **Statistical evaluation frameworks** for calibration, threshold selection, and robust performance analysis
+- **LLM behavioral reliability** (drift, safety boundaries, consistency) — in progress
 
-My work sits at the intersection of research and product, focused on making AI systems measurable, predictable, and safe.
+My work sits at the intersection of research and product, with an emphasis on making AI systems **measurable, predictable, and operationally safe**.
 
 ---
 
-### 🐾 Featured Projects
-- **Model Eval & Drift Lab** — Tools for detecting drift, calibrating models, and stress-testing ML systems.
+### Featured Projects
+- **Model Eval & Drift Lab** — Tools for detecting distribution shift, assessing calibration, and stress-testing deployed ML systems.
 
 ---
 
