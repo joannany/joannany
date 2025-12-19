@@ -11,7 +11,6 @@ My work sits at the intersection of research and product, focused on making AI s
 ---
 
 ### 🐾 Featured Projects
-- **LLM Behavior Evaluation Lab** — A modular framework for analyzing LLM safety, drift, and capability behavior.
 - **Model Eval & Drift Lab** — Tools for detecting drift, calibrating models, and stress-testing ML systems.
 
 ---
