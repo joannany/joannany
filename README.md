@@ -2,9 +2,9 @@
 Senior AI Product Manager focused on *evaluating, monitoring, and hardening* ML systems.
 
 I build tools for:
-- **LLM behavioral reliability** (safety, drift, consistency)
 - **Medical AI model monitoring** (real-world drift, calibration, post-market eval)
 - **Statistical frameworks** for calibration, thresholding, and robust evaluation
+- (in progress) **LLM behavioral reliability** (safety, drift, consistency)
 
 My work sits at the intersection of research and product, focused on making AI systems measurable, predictable, and safe.
 
