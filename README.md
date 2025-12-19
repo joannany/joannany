@@ -12,8 +12,12 @@ My work sits at the intersection of research and product, with an emphasis on ma
 ---
 
 ### Featured Projects
-- **Model Eval & Drift Lab** — Tools for detecting distribution shift, assessing calibration, and stress-testing deployed ML systems.
+- **Model Eval & Drift Lab**  
+  Tools for detecting distribution shift, assessing calibration, and stress-testing deployed ML systems.
 
+- **GPT-Drift**  
+  Lightweight behavioral fingerprinting to detect silent behavior changes in LLM APIs.
+  
 ---
 
 ### 📫 Connect
