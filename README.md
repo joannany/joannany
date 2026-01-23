@@ -8,26 +8,26 @@ My work bridges ML research and real-world deployment, focusing on how frontier-
 
 ### 🚀 Featured Technical Work
 
-#### 📈 [Frontier AI Economics](https://github.com/joannany/frontier-ai-economics)
-**Infrastructure strategy & quantitative simulation** — modeling the economics and supply-side constraints of frontier AI training.
+#### [Frontier AI Economics](https://github.com/joannany/frontier-ai-economics)
+**Infrastructure strategy & quantitative simulation** : modeling the economics and supply-side constraints of frontier AI training.
 - Examines capital efficiency, utilization risk, and training cost escalation
 - Analyzes physical bottlenecks such as advanced packaging and memory supply
 - Related essay: [The Real Cost of Training a Frontier Model](https://annajony.substack.com/p/the-real-cost-of-training-a-frontier)
 
-#### 🧪 [Model Eval & Drift Lab](https://github.com/joannany/drift-lab)
-**Reliability & monitoring** — production-oriented tools for detecting distribution shift and assessing calibration stability in high-stakes ML deployments, including medical AI.
+#### [Model Eval & Drift Lab](https://github.com/joannany/drift-lab)
+**Reliability & monitoring** : production-oriented tools for detecting distribution shift and assessing calibration stability in high-stakes ML deployments, including medical AI.
 
-#### 🕵️ [Model Lineage Audit](https://github.com/joannany/lineage-audit)
-**Forensics & governance** — statistical toolkit for analyzing shared training history and architectural leakage between foundation models.
+#### [Model Lineage Audit](https://github.com/joannany/lineage-audit)
+**Forensics & governance** : statistical toolkit for analyzing shared training history and architectural leakage between foundation models.
 
-#### 📉 [GPT-Drift](https://github.com/joannany/gpt-drift)
-**Behavioral integrity** — behavioral fingerprinting to detect silent regressions and consistency issues in commercial LLM APIs.
+#### [GPT-Drift](https://github.com/joannany/gpt-drift)
+**Behavioral integrity** : behavioral fingerprinting to detect silent regressions and consistency issues in commercial LLM APIs.
 
 ---
 
 ### ✍️ Writing
 
-I analyze the intersection of silicon, power, and capital in the AI race:  
+I analyze the intersection of silicon, power, and capital in the AI race.  
 **[Anna’s Technical Strategy Notes](https://annajony.substack.com/)**
 
 ---
