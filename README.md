@@ -1,6 +1,6 @@
 ### Hi, I’m Anna 👋
 
-I’m a **Senior AI Product Manager** specializing in the **reliability, economics, and industrial governance** of frontier machine learning systems.
+I’m a **Senior AI Product Manager** specializing in the **reliability, economics, and industrial governance** of machine learning systems.
 
 My work bridges ML research and real-world deployment, focusing on how frontier-scale models are evaluated, monitored, and sustainably operated under practical economic and physical constraints.
 
