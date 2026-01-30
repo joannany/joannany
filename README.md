@@ -14,10 +14,10 @@ My work bridges ML research and real-world deployment, focusing on how frontier-
 - Analyzes physical bottlenecks such as advanced packaging and memory supply
 - Related essay: [The Real Cost of Training a Frontier Model](https://annajony.substack.com/p/the-real-cost-of-training-a-frontier)
 
-#### [Model Eval & Drift Lab](https://github.com/joannany/drift-lab)
+#### [Model Eval & Drift Lab](https://github.com/joannany/model-eval-drift-lab)
 **Reliability & monitoring** : production-oriented tools for detecting distribution shift and assessing calibration stability in high-stakes ML deployments, including medical AI.
 
-#### [Model Lineage Audit](https://github.com/joannany/lineage-audit)
+#### [Model Lineage Audit](https://github.com/joannany/model-lineage-audit)
 **Forensics & governance** : statistical toolkit for analyzing shared training history and architectural leakage between foundation models.
 
 #### [GPT-Drift](https://github.com/joannany/gpt-drift)
