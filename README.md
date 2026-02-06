@@ -4,6 +4,9 @@ I’m a **Senior AI Product Manager** specializing in the **reliability, economi
 
 My work bridges ML research and real-world deployment, focusing on how frontier-scale models are evaluated, monitored, and sustainably operated under practical economic and physical constraints.
 
+> **Note on authorship:**  
+> The code in this repository and linked projects was developed with the assistance of generative AI tools. I define the problem framing, experiment design, evaluation logic, and interpretation of results, using AI to accelerate prototyping and iteration.
+
 ---
 
 ### 🚀 Featured Technical Work
@@ -34,4 +37,4 @@ I analyze the intersection of silicon, power, and capital in the AI race.
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/anna-jo-72088a21)
+[LinkedIn](https://linkedin.com/in/annajoai)
